@@ -49,3 +49,9 @@ The model answers a simple business question:
 This is a fictional demonstration project created for portfolio purposes.
 
 All figures, assumptions, patient numbers, drug prices, and costs are illustrative and do not represent any confidential clinical study, company budget, or proprietary information.
+
+## Key Insights
+
+The model shows how changes in patient recruitment, attrition, drug pricing, and study costs can affect the financial outcome of a clinical study.
+
+It can be used to compare different scenarios and identify conditions where projected drug purchases may or may not cover research costs.
